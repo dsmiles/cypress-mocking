@@ -1,0 +1,24 @@
+{
+  "articles":[
+    {
+      "title":"Mocking API Responses in Cypress",
+      "slug":"Mocking API Responses in Cypress",
+      "body":"Interception of API calls and mocking API Responses in Cypress",
+      "createdAt":"2023-12-11T20:36:08.217Z",
+      "updatedAt":"2023-12-11T20:36:08.217Z",
+      "tagList":[
+
+      ],
+      "description":"Something Something Cypress",
+      "author":{
+        "username":"Jason Bourne",
+        "bio":null,
+        "image":"https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following":false
+      },
+      "favorited":false,
+      "favoritesCount":999
+    }
+  ],
+  "articlesCount":1
+}

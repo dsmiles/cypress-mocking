@@ -1,0 +1,25 @@
+{
+  "name": "cypress-mocking",
+  "version": "1.0.0",
+  "description": "Demonstrate the interception of API requests and mocking data",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:chrome": "cypress run --browser=chrome",
+    "cypress:firefox": "cypress run --browser=firefox",
+    "cypress:edge": "cypress run --browser=edge",
+    "cypress:headless": "cypress run --headless --browser chrome"
+  },
+  "keywords": [
+    "api",
+    "automation",
+    "cypress",
+    "mocking",
+    "test",
+    "testing",
+    "web"
+  ],
+  "author": "David Smiles",
+  "devDependencies": {
+    "cypress": "*"
+  }
+}
