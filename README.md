@@ -38,15 +38,11 @@ npx cypress open
 ```
 - To run the test from a Chrome browser, open a terminal windows and enter the command:
 ```
-npx cypress:chrome
+npm run cypress:chrome
 ```
 - To run the test from a Firefox browser, open a terminal window and enter the command:
 ```
-npx cypress:firefox
-```
-- To run the test in headless mode, open a terminal windows and enter the command:
-```
-npx cypress:headless
+npm run cypress:firefox
 ```
 
 **Note:** Refer to the `package.json` file for the above `npm` script commands and their mapping.
