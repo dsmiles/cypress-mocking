@@ -31,3 +31,6 @@ node_modules
 cypress/videos
 cypress/screenshots
 js/*.js
+
+# Apple macOS custom folder attributes
+.DS_Store
